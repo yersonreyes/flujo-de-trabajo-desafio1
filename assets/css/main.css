@@ -93,7 +93,7 @@ nav img {
   height: 70vh;
   width: 100%;
   color: #fff;
-  background: url("/assets/img/post-image.jpg") no-repeat center fixed;
+  background: url("https://res.cloudinary.com/dd3sndpg3/image/upload/v1641489949/post-image_jptbta.jpg") no-repeat center fixed;
   background-size: cover;
 }
 
